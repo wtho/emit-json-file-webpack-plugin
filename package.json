@@ -1,0 +1,27 @@
+{
+  "name": "emit-json-file-webpack-plugin",
+  "version": "0.1.0",
+  "description": "Creates a json file from a JavaScript object during the Webpack Building Process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests created yet\"; exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtho/emit-json-file-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "json",
+    "js-object"
+  ],
+  "author": "Thomas Wirth <t@ghci.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtho/emit-json-file-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/wtho/emit-json-file-webpack-plugin#readme",
+  "devDependencies": {
+    "json-format": "^1.0.1"
+  }
+}
